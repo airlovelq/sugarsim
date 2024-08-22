@@ -1,0 +1,17 @@
+{
+    "start_time": "1668691383603747000",
+    "step_width": "20000000",
+    "sender_controller": {
+        "type": "simple"
+    },
+    "replayer_list": [
+        {
+            "name": "mock",
+            "type": "mock"
+        }
+    ],
+    "callbacker": {
+        "name": "mock",
+        "type": "mock"
+    }
+}
